@@ -1,0 +1,8 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(×Êì'
+=
+java:S1125"'Remove the unnecessary boolean literal.(Áè³¦
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(·èøÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÆŸ“èıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
