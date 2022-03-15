@@ -18,22 +18,9 @@ For Example, assuming today is 4 Apr 2017 and I had signed up on 1st Mar 2014, m
 
 Note: The KYC form can be filled only for the closest anniversary in the past or within 30 days range in future.
 Anniversary refers to same day and month every year. If your birthday is 01-02-1992 -then your first anniversary will be 01-02-1993, the 2nd will be 01-02-1994 and so on. 01-02-1992 is not an anniversary.
+
 Given the signup date and the current date, provide the allowable date range for the form date.
 
 Input - First line is an integer n as the number of inputs to be passed. Next, n lines are n input for the program in the format dd-mm-yyyy dd-mm-yyyy Each line has two dates separated by space where the first date in signup date and the second date is the current date.
 Output - Range of dates for KYC form in format dd-mm-yyyy dd-mm-yyyy
 
-Test Input:
-5
-16-07-1998 27-06-2017
-04-02-2016 04-04-2017
-04-05-2017 04-04-2017
-04-04-2015 04-04-2016
-04-04-2015 15-03-2016
-
-Test output:
-16-06-2017 27-06-2017
-05-01-2017 06-03-2017
-No range
-05-03-2016 04-04-2016
-05-03-2016 15-03-2016
