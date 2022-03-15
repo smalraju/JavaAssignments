@@ -1,0 +1,13 @@
+
+“
+java:S1130"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(ëùÕ•ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óßáŒ
+Y
+java:S3252">Use static access with "java.net.InetAddress" for "getByName".(ŽÎƒáúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôö™ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ô’Œûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óßáŒ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÏµÝÎÿÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Ù¦—
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‚¸³ýÿÿÿÿ
