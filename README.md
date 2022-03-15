@@ -21,7 +21,6 @@ Anniversary refers to same day and month every year. If your birthday is 01-02-1
 Given the signup date and the current date, provide the allowable date range for the form date.
 
 Input - First line is an integer n as the number of inputs to be passed. Next, n lines are n input for the program in the format dd-mm-yyyy dd-mm-yyyy Each line has two dates separated by space where the first date in signup date and the second date is the current date.
-
 Output - Range of dates for KYC form in format dd-mm-yyyy dd-mm-yyyy
 
 Test Input:
